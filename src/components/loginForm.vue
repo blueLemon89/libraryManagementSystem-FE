@@ -8,7 +8,7 @@
               {{ message }}
             </div>
           <div data-mdb-input-init class="form-outline mb-4">
-            <label class="form-label" for="form1Example13">Email address</label>
+            <label class="form-label" for="form1Example13">Username</label>
             <input 
               type="text" 
               id="form1Example13" 
